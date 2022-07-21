@@ -51,5 +51,5 @@ wage_test_matlab.yearly_wage = categorical(yearly_wage_predicted);
 wage_predicted.rowNumber = wage_test_matlab.Var1;
 wage_predicted.predictedValues = wage_test_matlab.yearly_wage;
 wage_predicted = struct2table(wage_predicted);
-writetable(wage_predicted, 'wage_predicted.csv');
-writetable(wage_predicted, 'wage_predicted.xls');
+writetable(wage_predicted, 'predicted.csv');
+writetable(wage_predicted, 'predicted.xls');
