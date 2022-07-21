@@ -2,7 +2,9 @@
 Desafio Cientista de Dados Light House
 
 O projeto é dividido em duas partes:
+
 1 - EDA, por meio da Linguagem R
+
 2 - Predição, por meio do Matlab
 
 1 Executar o código da EDA:
