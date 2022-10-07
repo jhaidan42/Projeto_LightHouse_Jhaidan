@@ -1,9 +1,13 @@
 # Projeto_LightHouse_Jhaidan
+
+Projeto realizado no para um processo seletivo. 
+Foi realizado num momento em que eu estava iniciando na área de Análise / Ciência de Dados e, consequentemente, tinha pouco conhecimento.
+
 Desafio Cientista de Dados Light House
 
 O projeto é dividido em duas partes:
-1 - EDA, por meio da Linguagem R;
-2 - Predição, por meio do Matlab;
+1 - EDA, com o uso da Linguagem R;
+2 - Predição, com o uso do software/linguagem Matlab;
 
 1 Executar o código da EDA:
 Para rodar o código da EDA basta executar o arquivo "EDA_wage.R"
