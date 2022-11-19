@@ -1,6 +1,7 @@
 # Projeto_LightHouse_Jhaidan
 
-Projeto realizado no para um processo seletivo. 
+Projeto realizado para um processo seletivo.
+
 Foi realizado num momento em que eu estava iniciando na área de Análise / Ciência de Dados e, consequentemente, tinha pouco conhecimento.
 
 Desafio Cientista de Dados Light House
